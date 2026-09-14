@@ -38,4 +38,4 @@ cargo build --release
 
 ## Demo
 
-Live Demo - Coming soon
+Live Demo - [Click Here](https://www.youtube.com/shorts/TOOpF8YVsDQ)
